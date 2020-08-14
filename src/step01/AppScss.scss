@@ -1,0 +1,6 @@
+$textColor: lightgreen;
+$bgColor: black;
+
+h1 { color: $textColor }
+.blackBackground { color: $textColor; background-color: $bgColor;  font-weight: bold}
+

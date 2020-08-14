@@ -1,18 +1,17 @@
 import React from 'react';
-import AppState from './App_State';
-import AppHooks from './App_Hooks';
-import AppContext from './App_Context';
-import AppCtxReducer from './App_CtxReducer';
+import App01 from './step01/App01';
+import App02 from './step02/App02'
 
 function App() {
-  return (
-    <>
-      <AppState apType="sa" />
-      <AppHooks />
-      <AppContext />
-      <AppCtxReducer />
-    </>
-  );
+
+    return (
+        <>
+            <App02 />
+            <App01 />
+
+        </>
+    );
 }
+
 
 export default App;

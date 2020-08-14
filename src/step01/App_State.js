@@ -1,4 +1,4 @@
-import React, {Component } from 'react';
+import React, {Component} from 'react';
 import PropTypes from 'prop-types';
 
 class App_State extends Component {
@@ -73,5 +73,3 @@ class StateComponent01 extends Component {
 }
 
 export default App_State;
-
-
