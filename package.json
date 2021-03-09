@@ -10,7 +10,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
-	"elliptic":"^6.5.3",
+	"elliptic":"^6.5.4",
 	"websocket-extensions":"^0.1.4"
   },
   "scripts": {
